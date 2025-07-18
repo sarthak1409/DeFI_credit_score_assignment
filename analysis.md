@@ -7,7 +7,7 @@
 - 900–1000
 
 ## 📊 Distribution Plot
-![Score Distribution](score_distribution.png)
+![Score Distribution](outputs/score_distribution.png)
 
 ## 🧠 Interpretation
 
