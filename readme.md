@@ -95,8 +95,9 @@ internship_assignment/
 │   └── score_distribution.png
 │
 ├── DeFi_credit_scoring.ipynb # Jupyter notebook containing full analysis
+├──requirements.txt           # libraries required for download
 ├── analysis.md               # Markdown summary of your analysis steps
-|__ readme.md                 # Project overview, architecture, and method
+└──  readme.md                 # Project overview, architecture, and method
                     # This file
 ```
 
