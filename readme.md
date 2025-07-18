@@ -94,10 +94,10 @@ internship_assignment/
 │   ├── wallet_cluster_stats.csv
 │   └── score_distribution.png
 │
-├── DeFi_credit_scoring.ipynb # Jupyter notebook containing full analysis
-├──requirements.txt           # libraries required for download
+├── DeFi_credit_scoring.ipynb # Jupyter notebook containing full analysis 
+├── readme.md                 # Project overview, architecture, and method
 ├── analysis.md               # Markdown summary of your analysis steps
-└──  readme.md                 # Project overview, architecture, and method
+└── requirements.txt          # libraries required for download      
                     # This file
 ```
 
